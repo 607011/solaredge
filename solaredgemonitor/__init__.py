@@ -15,7 +15,7 @@ BASE_URL = "https://monitoringapi.solaredge.com"
 BATTERY_STATES = {
     0: "Invalid",
     1: "Standby",
-    2: "Therman Mgmt.",
+    2: "Thermal Mgmt.",
     3: "Enabled",
     4: "FAULT",
     6: "UNKNOWN",
